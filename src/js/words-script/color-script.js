@@ -2,7 +2,7 @@ const audio = [
   {
     audioSrc: "../../src/audio/words-audio/colors/01.wav",
     imageSrc: "../../src/img/words-img/colors/01.jpg",
-    tamil: "சிவப்பு ",
+    tamil: "சிவப்பு",
     pronunciation: "Sivappu",
     english: "Red"
   },
@@ -11,7 +11,7 @@ const audio = [
     audioSrc: "../../src/audio/words-audio/colors/02.wav",
     imageSrc: "../../src/img/words-img/colors/02.jpg",
     tamil: "பச்சை",
-    pronunciation: "Pachchi",
+    pronunciation: "Pachchai",
     english: "Green"
   },
   {
@@ -46,14 +46,14 @@ const audio = [
     audioSrc: "../../src/audio/words-audio/colors/07.wav",
     imageSrc: "../../src/img/words-img/colors/07.jpg",
     tamil: "சாம்பல்",
-    pronunciation: "Sappal",
-    english: "Ash"
+    pronunciation: "Saampal",
+    english: "Grey"
   },
   {
     audioSrc: "../../src/audio/words-audio/colors/08.wav",
     imageSrc: "../../src/img/words-img/colors/08.jpg",
     tamil: "ஊதா",
-    pronunciation: "Utha",
+    pronunciation: "Uutha",
     english: "Purple"
   },
   {

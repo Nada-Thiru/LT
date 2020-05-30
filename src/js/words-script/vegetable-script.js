@@ -67,7 +67,7 @@ const audio = [
     audioSrc: "../../src/audio/words-audio/vegetables/10.mp3",
     imageSrc: "../../src/img/words-img/vegetables/10.jpg",
     tamil: "கோவா",
-    pronunciation: "Goa",
+    pronunciation: "Gova",
     english: "Goa"
   },
   {
@@ -110,7 +110,7 @@ const audio = [
     imageSrc: "../../src/img/words-img/vegetables/16.jpg",
     tamil: "முருக்கங்காய்",
     pronunciation: "Murukkankay",
-    english: "Murukkankay"
+    english: "Drumstick"
   },
   {
     audioSrc: "../../src/audio/words-audio/vegetables/17.mp3",

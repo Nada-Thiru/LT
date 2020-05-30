@@ -1,6 +1,6 @@
 const audio = [
   {
-    audioSrc: "../../src/audio/words-audio/shapes/01.wav",
+    audioSrc: "../../src/audio/words-audio/shapes/01.mp3",
     imageSrc: "../../src/img/words-img/shapes/01.jpg",
     tamil: "வட்டம்",
     pronunciation: "Vaddam",
@@ -8,49 +8,49 @@ const audio = [
   },
 
   {
-    audioSrc: "../../src/audio/words-audio/shapes/02.wav",
+    audioSrc: "../../src/audio/words-audio/shapes/02.mp3",
     imageSrc: "../../src/img/words-img/shapes/02.jpg",
     tamil: "சதுரம்",
     pronunciation: "Sathuram",
     english: "Square"
   },
   {
-    audioSrc: "../../src/audio/words-audio/shapes/03.wav",
+    audioSrc: "../../src/audio/words-audio/shapes/03.mp3",
     imageSrc: "../../src/img/words-img/shapes/03.jpg",
     tamil: "செவ்வகம்",
     pronunciation: "Sevvakam",
     english: "Rectangle"
   },
   {
-    audioSrc: "../../src/audio/words-audio/shapes/04.wav",
+    audioSrc: "../../src/audio/words-audio/shapes/04.mp3",
     imageSrc: "../../src/img/words-img/shapes/04.jpg",
     tamil: "முக்கோணம்",
     pronunciation: "Mukkonam",
     english: "Triangle"
   },
   {
-    audioSrc: "../../src/audio/words-audio/shapes/05.wav",
+    audioSrc: "../../src/audio/words-audio/shapes/05.mp3",
     imageSrc: "../../src/img/words-img/shapes/05.jpg",
     tamil: "நீள்வட்டம்",
     pronunciation: "Neelvaddam",
     english: "Oval"
   },
   {
-    audioSrc: "../../src/audio/words-audio/shapes/06.wav",
+    audioSrc: "../../src/audio/words-audio/shapes/06.mp3",
     imageSrc: "../../src/img/words-img/shapes/06.jpg",
     tamil: "ஐங்கோணி",
     pronunciation: "Inngoni",
     english: "Pentagon"
   },
   {
-    audioSrc: "../../src/audio/words-audio/shapes/07.wav",
+    audioSrc: "../../src/audio/words-audio/shapes/07.mp3",
     imageSrc: "../../src/img/words-img/shapes/07.jpg",
     tamil: "சரிவகம்",
     pronunciation: "Sarivakam",
     english: "Trapezoid "
   },
   {
-    audioSrc: "../../src/audio/words-audio/shapes/08.wav",
+    audioSrc: "../../src/audio/words-audio/shapes/08.mp3",
     imageSrc: "../../src/img/words-img/shapes/08.jpg",
     tamil: "உருளை",
     pronunciation: "Urulai",

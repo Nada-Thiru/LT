@@ -1,6 +1,6 @@
 const audio = [
   {
-    audioSrc: "../../src/audio/words-audio/jobs/01.wav",
+    audioSrc: "../../src/audio/words-audio/jobs/01.mp3",
     imageSrc: "../../src/img/words-img/jobs/01.jpg",
     tamil: "ஆசிரியர்",
     pronunciation: "Asiriyar",
@@ -8,56 +8,56 @@ const audio = [
   },
 
   {
-    audioSrc: "../../src/audio/words-audio/jobs/02.wav",
+    audioSrc: "../../src/audio/words-audio/jobs/02.mp3",
     imageSrc: "../../src/img/words-img/jobs/02.jpg",
     tamil: "வைத்தியர்",
     pronunciation: "Vaiththiyar",
     english: "Doctor"
   },
   {
-    audioSrc: "../../src/audio/words-audio/jobs/03.wav",
+    audioSrc: "../../src/audio/words-audio/jobs/03.mp3",
     imageSrc: "../../src/img/words-img/jobs/03.jpg",
     tamil: "தாதி",
     pronunciation: "Thaathi",
     english: "Nurse"
   },
   {
-    audioSrc: "../../src/audio/words-audio/jobs/04.wav",
+    audioSrc: "../../src/audio/words-audio/jobs/04.mp3",
     imageSrc: "../../src/img/words-img/jobs/04.jpg",
     tamil: "வாகனஓட்டுனர்",
     pronunciation: "Vakana oddunar",
     english: "Driver"
   },
   {
-    audioSrc: "../../src/audio/words-audio/jobs/05.wav",
+    audioSrc: "../../src/audio/words-audio/jobs/05.mp3",
     imageSrc: "../../src/img/words-img/jobs/05.jpg",
     tamil: "வடிவமைப்பாளர்",
     pronunciation: "Vadivamaipalar",
     english: "Designer"
   },
   {
-    audioSrc: "../../src/audio/words-audio/jobs/06.wav",
+    audioSrc: "../../src/audio/words-audio/jobs/06.mp3",
     imageSrc: "../../src/img/words-img/jobs/06.jpg",
     tamil: "ஊழியர்",
     pronunciation: "Uliyar",
     english: "Employee "
   },
   {
-    audioSrc: "../../src/audio/words-audio/jobs/07.wav",
+    audioSrc: "../../src/audio/words-audio/jobs/07.mp3",
     imageSrc: "../../src/img/words-img/jobs/07.jpg",
     tamil: "அமைச்சர்",
     pronunciation: "Amachchar",
     english: "Minister "
   },
   {
-    audioSrc: "../../src/audio/words-audio/jobs/08.wav",
+    audioSrc: "../../src/audio/words-audio/jobs/08.mp3",
     imageSrc: "../../src/img/words-img/jobs/08.jpg",
     tamil: "ஜனாதிபதி",
     pronunciation: "Janathipathi",
     english: "President"
   },
   {
-    audioSrc: "../../src/audio/words-audio/jobs/09.wav",
+    audioSrc: "../../src/audio/words-audio/jobs/09.mp3",
     imageSrc: "../../src/img/words-img/jobs/09.jpg",
     tamil: "காவலாளர்",
     pronunciation: "Kavalalar",

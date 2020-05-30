@@ -1,6 +1,6 @@
 const audio = [
   {
-    audioSrc: "../../src/audio/words-audio/school/01.wav",
+    audioSrc: "../../src/audio/words-audio/school/01.mp3",
     imageSrc: "../../src/img/words-img/school/01.jpg",
     tamil: "அதிபர்",
     pronunciation: "Athipar",
@@ -8,74 +8,95 @@ const audio = [
   },
 
   {
-    audioSrc: "../../src/audio/words-audio/school/02.wav",
+    audioSrc: "../../src/audio/words-audio/school/02.mp3",
     imageSrc: "../../src/img/words-img/school/02.jpg",
     tamil: "ஆசிரியர்",
     pronunciation: "Aasiriyar",
     english: "Teacher"
   },
   {
-    audioSrc: "../../src/audio/words-audio/school/03.wav",
+    audioSrc: "../../src/audio/words-audio/school/03.mp3",
     imageSrc: "../../src/img/words-img/school/03.jpg",
     tamil: "மாணவர்",
     pronunciation: "Maanavar",
     english: "Student"
   },
   {
-    audioSrc: "../../src/audio/words-audio/school/04.wav",
+    audioSrc: "../../src/audio/words-audio/school/04.mp3",
     imageSrc: "../../src/img/words-img/school/04.jpg",
     tamil: "வகுப்பு",
     pronunciation: "Vakuppu",
     english: "Class"
   },
   {
-    audioSrc: "../../src/audio/words-audio/school/05.wav",
+    audioSrc: "../../src/audio/words-audio/school/05.mp3",
     imageSrc: "../../src/img/words-img/school/05.jpg",
     tamil: "வெண்கட்டி",
     pronunciation: "Venkaddy",
     english: "Chalk"
   },
   {
-    audioSrc: "../../src/audio/words-audio/school/06.wav",
+    audioSrc: "../../src/audio/words-audio/school/06.mp3",
     imageSrc: "../../src/img/words-img/school/06.jpg",
     tamil: "புத்தகம்",
     pronunciation: "Puththakam",
     english: "Book"
   },
   {
-    audioSrc: "../../src/audio/words-audio/school/07.wav",
+    audioSrc: "../../src/audio/words-audio/school/07.mp3",
     imageSrc: "../../src/img/words-img/school/07.jpg",
     tamil: "புத்தகப்பை",
     pronunciation: "Puththakappai",
     english: "Bag"
   },
   {
-    audioSrc: "../../src/audio/words-audio/school/08.wav",
+    audioSrc: "../../src/audio/words-audio/school/08.mp3",
     imageSrc: "../../src/img/words-img/school/08.jpg",
     tamil: "விளையாட்டு மைதானம்",
     pronunciation: "Vilaiyaddu maithanam",
     english: "Playground"
   },
   {
-    audioSrc: "../../src/audio/words-audio/school/09.wav",
+    audioSrc: "../../src/audio/words-audio/school/09.mp3",
     imageSrc: "../../src/img/words-img/school/09.jpg",
     tamil: "ஆய்வுகூடம்",
     pronunciation: "Aaivukudam",
     english: "Laboratory"
   },
   {
-    audioSrc: "../../src/audio/words-audio/school/10.wav",
+    audioSrc: "../../src/audio/words-audio/school/10.mp3",
     imageSrc: "../../src/img/words-img/school/10.jpg",
+    tamil: "சங்கீத அறை",
+    pronunciation: "Sangeetha arai",
+    english: "Music room"
+  },
+  {
+    audioSrc: "../../src/audio/words-audio/school/11.mp3",
+    imageSrc: "../../src/img/words-img/school/11.jpg",
     tamil: "வரவேடு",
     pronunciation: "Varavedu",
     english: "Register"
   },
   {
-    audioSrc: "../../src/audio/words-audio/school/11.wav",
-    imageSrc: "../../src/img/words-img/school/11.jpg",
+    audioSrc: "../../src/audio/words-audio/school/12.mp3",
+    imageSrc: "../../src/img/words-img/school/12.jpg",
+    tamil: "நூலகம்",
+    pronunciation: "Noolagam",
+    english: "Library"
+  },
+  {
+    audioSrc: "../../src/audio/words-audio/school/13.mp3",
+    imageSrc: "../../src/img/words-img/school/13.jpg",
     tamil: "மண்டபம்",
     pronunciation: "Mandapam",
     english: "Hall"
+  },
+  {
+    audioSrc: "../../src/audio/words-audio/school/14.mp3",
+    imageSrc: "../../src/img/words-img/school/14.jpg",
+    tamil: "காரியாலயம்",
+    pronunciation: "Kaariyaalayam",
+    english: "Office"
   }
 ]
 var i = 0;

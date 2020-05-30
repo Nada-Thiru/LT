@@ -1,6 +1,6 @@
 const audio = [
   {
-    audioSrc: "../../src/audio/words-audio/musicalinstruments/01.wav",
+    audioSrc: "../../src/audio/words-audio/musicalinstruments/01.mp3",
     imageSrc: "../../src/img/words-img/musicalinstruments/01.jpg",
     tamil: "சங்கு",
     pronunciation: "Sanku",
@@ -8,42 +8,42 @@ const audio = [
   },
 
   {
-    audioSrc: "../../src/audio/words-audio/musicalinstruments/02.wav",
+    audioSrc: "../../src/audio/words-audio/musicalinstruments/02.mp3",
     imageSrc: "../../src/img/words-img/musicalinstruments/02.jpg",
     tamil: "முரசு",
     pronunciation: "Murasu",
     english: "Murasu"
   },
   {
-    audioSrc: "../../src/audio/words-audio/musicalinstruments/03.wav",
+    audioSrc: "../../src/audio/words-audio/musicalinstruments/03.mp3",
     imageSrc: "../../src/img/words-img/musicalinstruments/03.jpg",
     tamil: "புல்லாங்குழல்",
     pronunciation: "Pullaankulal",
     english: "Flute"
   },
   {
-    audioSrc: "../../src/audio/words-audio/musicalinstruments/04.wav",
+    audioSrc: "../../src/audio/words-audio/musicalinstruments/04.mp3",
     imageSrc: "../../src/img/words-img/musicalinstruments/04.jpg",
     tamil: "நாதஸ்வரம்",
     pronunciation: "Nathasvaram",
     english: "Nathasvaram"
   },
   {
-    audioSrc: "../../src/audio/words-audio/musicalinstruments/05.wav",
+    audioSrc: "../../src/audio/words-audio/musicalinstruments/05.mp3",
     imageSrc: "../../src/img/words-img/musicalinstruments/05.jpg",
     tamil: "ஹார்மோனியம்",
     pronunciation: "Harmonium",
     english: "Harmonium"
   },
   {
-    audioSrc: "../../src/audio/words-audio/musicalinstruments/06.wav",
+    audioSrc: "../../src/audio/words-audio/musicalinstruments/06.mp3",
     imageSrc: "../../src/img/words-img/musicalinstruments/06.jpg",
     tamil: "மிருதங்கம்",
     pronunciation: "Miruthankam",
     english: "Percussion  "
   },
   {
-    audioSrc: "../../src/audio/words-audio/musicalinstruments/07.wav",
+    audioSrc: "../../src/audio/words-audio/musicalinstruments/07.mp3",
     imageSrc: "../../src/img/words-img/musicalinstruments/07.jpg",
     tamil: "வயலின்",
     pronunciation: "Violin",

@@ -1,6 +1,6 @@
 const audio = [
   {
-    audioSrc: "../../src/audio/words-audio/diseases/01.wav",
+    audioSrc: "../../src/audio/words-audio/diseases/01.mp3",
     imageSrc: "../../src/img/words-img/diseases/01.jpg",
     tamil: "இருமல்",
     pronunciation: "Irumal",
@@ -8,57 +8,57 @@ const audio = [
   },
 
   {
-    audioSrc: "../../src/audio/words-audio/diseases/02.wav",
+    audioSrc: "../../src/audio/words-audio/diseases/02.mp3",
     imageSrc: "../../src/img/words-img/diseases/02.jpg",
     tamil: "காய்ச்சல்",
     pronunciation: "Kachchal",
     english: "Fever"
   },
   {
-    audioSrc: "../../src/audio/words-audio/diseases/04.wav",
-    imageSrc: "../../src/img/words-img/diseases/04.jpg",
+    audioSrc: "../../src/audio/words-audio/diseases/03.mp3",
+    imageSrc: "../../src/img/words-img/diseases/03.jpg",
     tamil: "இரத்தஅழுத்தம்",
     pronunciation: "Iraththaaluththam",
     english: "Blood pressure "
   },
   {
-    audioSrc: "../../src/audio/words-audio/diseases/05.wav",
-    imageSrc: "../../src/img/words-img/diseases/05.jpg",
+    audioSrc: "../../src/audio/words-audio/diseases/04.mp3",
+    imageSrc: "../../src/img/words-img/diseases/04.jpg",
     tamil: "பக்கவாதம்",
     pronunciation: "Pakkavatham",
     english: "Stroke"
   },
   {
-    audioSrc: "../../src/audio/words-audio/diseases/06.wav",
-    imageSrc: "../../src/img/words-img/diseases/06.jpg",
+    audioSrc: "../../src/audio/words-audio/diseases/05.mp3",
+    imageSrc: "../../src/img/words-img/diseases/05.jpg",
     tamil: "மனஅழுத்தம்",
     pronunciation: "Mana auththam",
     english: "Depression"
   },
   {
-    audioSrc: "../../src/audio/words-audio/diseases/07.wav",
-    imageSrc: "../../src/img/words-img/diseases/07.jpg",
+    audioSrc: "../../src/audio/words-audio/diseases/06.mp3",
+    imageSrc: "../../src/img/words-img/diseases/06.jpg",
     tamil: "காசநோய்",
     pronunciation: "Kasanooi",
     english: "Phthisis"
   },
   {
-    audioSrc: "../../src/audio/words-audio/diseases/08.wav",
-    imageSrc: "../../src/img/words-img/diseases/08.jpg",
+    audioSrc: "../../src/audio/words-audio/diseases/07.mp3",
+    imageSrc: "../../src/img/words-img/diseases/07.jpg",
     tamil: "தலையிடி",
     pronunciation: "Thalaijidi",
     english: "Headache"
   },
   {
-    audioSrc: "../../src/audio/words-audio/diseases/09.wav",
-    imageSrc: "../../src/img/words-img/diseases/09.jpg",
-    tamil: "வயிற்று வலி",
-    pronunciation: "Vajittuvali",
+    audioSrc: "../../src/audio/words-audio/diseases/08.mp3",
+    imageSrc: "../../src/img/words-img/diseases/08.jpg",
+    tamil: "வயிற்றுக் குத்து",
+    pronunciation: "Vajitru kuthu",
     english: "Abdominal pain"
   },
   {
-    audioSrc: "../../src/audio/words-audio/diseases/10.wav",
-    imageSrc: "../../src/img/words-img/diseases/10.jpg",
+    audioSrc: "../../src/audio/words-audio/diseases/09.mp3",
+    imageSrc: "../../src/img/words-img/diseases/09.jpg",
     tamil: "வாந்திபேதி",
     pronunciation: "Vanthipethi",
     english: "Vomit"

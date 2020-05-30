@@ -8,145 +8,140 @@ const audio = [
   },
 
   {
-    audioSrc: "../../src/audio/words-audio/actions/02.wav",
+    audioSrc: "../../src/audio/words-audio/actions/02.mp3",
     imageSrc: "../../src/img/words-img/actions/02.jpg",
     tamil: "இரு",
     pronunciation: "Iru",
     english: "Sit"
   },
   {
-    audioSrc: "../../src/audio/words-audio/actions/03.wav",
+    audioSrc: "../../src/audio/words-audio/actions/03.mp3",
     imageSrc: "../../src/img/words-img/actions/03.jpg",
     tamil: "போ",
     pronunciation: "Po",
     english: "Go"
   },
   {
-    audioSrc: "../../src/audio/words-audio/actions/04.wav",
+    audioSrc: "../../src/audio/words-audio/actions/04.mp3",
     imageSrc: "../../src/img/words-img/actions/04.jpg",
     tamil: "வா",
     pronunciation: "vaa",
     english: "Come"
   },
+
   {
-    audioSrc: "../../src/audio/words-audio/actions/05.wav",
+    audioSrc: "../../src/audio/words-audio/actions/05.mp3",
     imageSrc: "../../src/img/words-img/actions/05.jpg",
     tamil: "கதை",
     pronunciation: "Kathai",
     english: "Talk"
   },
   {
-    audioSrc: "../../src/audio/words-audio/actions/06.wav",
+    audioSrc: "../../src/audio/words-audio/actions/06.mp3",
     imageSrc: "../../src/img/words-img/actions/06.jpg",
+    tamil: "கதை",
+    pronunciation: "Kathai",
+    english: "Talk"
+  },
+  {
+    audioSrc: "../../src/audio/words-audio/actions/07.mp3",
+    imageSrc: "../../src/img/words-img/actions/07.jpg",
     tamil: "எழும்பு",
     pronunciation: "Elumpu",
     english: "Wakeup"
   },
   {
-    audioSrc: "../../src/audio/words-audio/actions/07.wav",
-    imageSrc: "../../src/img/words-img/actions/07.jpg",
+    audioSrc: "../../src/audio/words-audio/actions/08.mp3",
+    imageSrc: "../../src/img/words-img/actions/08.jpg",
     tamil: "ஓடு",
     pronunciation: "Odu",
     english: "Run"
   },
   {
-    audioSrc: "../../src/audio/words-audio/actions/08.wav",
-    imageSrc: "../../src/img/words-img/actions/08.jpg",
+    audioSrc: "../../src/audio/words-audio/actions/09.mp3",
+    imageSrc: "../../src/img/words-img/actions/09.jpg",
     tamil: "பாய்",
     pronunciation: "Paai",
     english: "Jump"
   },
   {
-    audioSrc: "../../src/audio/words-audio/actions/09.wav",
-    imageSrc: "../../src/img/words-img/actions/09.jpg",
+    audioSrc: "../../src/audio/words-audio/actions/10.mp3",
+    imageSrc: "../../src/img/words-img/actions/10.jpg",
     tamil: "அடி",
     pronunciation: "Adi",
     english: "Slap"
   },
   {
-    audioSrc: "../../src/audio/words-audio/actions/10.wav",
-    imageSrc: "../../src/img/words-img/actions/10.jpg",
+    audioSrc: "../../src/audio/words-audio/actions/11.mp3",
+    imageSrc: "../../src/img/words-img/actions/11.jpg",
     tamil: "தொடு",
     pronunciation: "Thodu",
     english: "Touch"
   },
   {
-    audioSrc: "../../src/audio/words-audio/actions/11.wav",
-    imageSrc: "../../src/img/words-img/actions/11.jpg",
+    audioSrc: "../../src/audio/words-audio/actions/12.mp3",
+    imageSrc: "../../src/img/words-img/actions/12.jpg",
     tamil: "பார் ",
     pronunciation: "Paar",
     english: "See"
   },
   {
-    audioSrc: "../../src/audio/words-audio/actions/12.wav",
-    imageSrc: "../../src/img/words-img/actions/12.jpg",
+    audioSrc: "../../src/audio/words-audio/actions/13.mp3",
+    imageSrc: "../../src/img/words-img/actions/13.jpg",
     tamil: "எழுது",
     pronunciation: "Eluthu",
     english: "Write"
   },
   {
-    audioSrc: "../../src/audio/words-audio/actions/13.wav",
-    imageSrc: "../../src/img/words-img/actions/13.jpg",
+    audioSrc: "../../src/audio/words-audio/actions/14.mp3",
+    imageSrc: "../../src/img/words-img/actions/14.jpg",
     tamil: "வாசி",
     pronunciation: "Vaasi",
     english: "Read"
   },
   {
-    audioSrc: "../../src/audio/words-audio/actions/14.wav",
-    imageSrc: "../../src/img/words-img/actions/14.jpg",
+    audioSrc: "../../src/audio/words-audio/actions/15.mp3",
+    imageSrc: "../../src/img/words-img/actions/15.jpg",
     tamil: "அழு",
     pronunciation: "Alu",
     english: "Cry"
   },
   {
-    audioSrc: "../../src/audio/words-audio/actions/15.wav",
-    imageSrc: "../../src/img/words-img/actions/15.jpg",
+    audioSrc: "../../src/audio/words-audio/actions/16.mp3",
+    imageSrc: "../../src/img/words-img/actions/16.jpg",
+    tamil: "அழு",
+    pronunciation: "Alu",
+    english: "Cry"
+  },
+  {
+    audioSrc: "../../src/audio/words-audio/actions/17.mp3",
+    imageSrc: "../../src/img/words-img/actions/17.jpg",
     tamil: "சிரி",
     pronunciation: "Siri",
     english: "Smile"
   },
   {
-    audioSrc: "../../src/audio/words-audio/actions/16.wav",
-    imageSrc: "../../src/img/words-img/actions/16.jpg",
+    audioSrc: "../../src/audio/words-audio/actions/18.mp3",
+    imageSrc: "../../src/img/words-img/actions/18.jpg",
     tamil: "நடி ",
     pronunciation: "Nadi",
     english: "Act"
   },
   {
-    audioSrc: "../../src/audio/words-audio/actions/17.wav",
-    imageSrc: "../../src/img/words-img/actions/17.jpg",
+    audioSrc: "../../src/audio/words-audio/actions/19.mp3",
+    imageSrc: "../../src/img/words-img/actions/19.jpg",
     tamil: "பாடு",
     pronunciation: "Paadu",
     english: "Sing"
   },
   {
-    audioSrc: "../../src/audio/words-audio/actions/18.wav",
-    imageSrc: "../../src/img/words-img/actions/18.jpg",
-    tamil: "வேலை",
-    pronunciation: "Velai",
+    audioSrc: "../../src/audio/words-audio/actions/20.mp3",
+    imageSrc: "../../src/img/words-img/actions/20.jpg",
+    tamil: "வேலை செய்",
+    pronunciation: "Velai sei",
     english: "Work"
   },
-  {
-    audioSrc: "../../src/audio/words-audio/actions/19.wav",
-    imageSrc: "../../src/img/words-img/actions/19.jpg",
-    tamil: "செய்",
-    pronunciation: "Sei",
-    english: "Do"
-  },
-  {
-    audioSrc: "../../src/audio/words-audio/actions/20.wav",
-    imageSrc: "../../src/img/words-img/actions/20.jpg",
-    tamil: "மிதி",
-    pronunciation: "Mithi",
-    english: "Treadle"
-  },
-  {
-    audioSrc: "../../src/audio/words-audio/actions/19.wav",
-    imageSrc: "../../src/img/words-img/actions/19.jpg",
-    tamil: "ஆடு",
-    pronunciation: "Aadu",
-    english: "Dance"
-  }
+  
 ]
 var i = 0;
 

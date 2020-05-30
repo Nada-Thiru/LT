@@ -1,6 +1,6 @@
 const audio = [
   {
-    audioSrc: "../../src/audio/words-audio/subjects/01.wav",
+    audioSrc: "../../src/audio/words-audio/subjects/01.mp3",
     imageSrc: "../../src/img/words-img/subjects/01.jpg",
     tamil: "கணிதம்",
     pronunciation: "Kanitham",
@@ -8,49 +8,49 @@ const audio = [
   },
 
   {
-    audioSrc: "../../src/audio/words-audio/subjects/02.wav",
+    audioSrc: "../../src/audio/words-audio/subjects/02.mp3",
     imageSrc: "../../src/img/words-img/subjects/02.jpg",
     tamil: "ஆங்கிலம்",
     pronunciation: "Aankilam",
     english: "English"
   },
   {
-    audioSrc: "../../src/audio/words-audio/subjects/03.wav",
+    audioSrc: "../../src/audio/words-audio/subjects/03.mp3",
     imageSrc: "../../src/img/words-img/subjects/03.jpg",
     tamil: "தமிழ்",
     pronunciation: "Tamizhl",
     english: "Tamil"
   },
   {
-    audioSrc: "../../src/audio/words-audio/subjects/04.wav",
+    audioSrc: "../../src/audio/words-audio/subjects/04.mp3",
     imageSrc: "../../src/img/words-img/subjects/04.jpg",
     tamil: "விஞ்ஞானம்  ",
     pronunciation: "Vinjanaam",
     english: "Science"
   },
   {
-    audioSrc: "../../src/audio/words-audio/subjects/05.wav",
+    audioSrc: "../../src/audio/words-audio/subjects/05.mp3",
     imageSrc: "../../src/img/words-img/subjects/05.jpg",
     tamil: "வரலாறு",
     pronunciation: "Varalaaru",
     english: "History"
   },
   {
-    audioSrc: "../../src/audio/words-audio/subjects/06.wav",
+    audioSrc: "../../src/audio/words-audio/subjects/06.mp3",
     imageSrc: "../../src/img/words-img/subjects/06.jpg",
     tamil: "புவியியல்",
     pronunciation: "Puvijiyal",
     english: "Geography"
   },
   {
-    audioSrc: "../../src/audio/words-audio/subjects/07.wav",
+    audioSrc: "../../src/audio/words-audio/subjects/07.mp3",
     imageSrc: "../../src/img/words-img/subjects/07.jpg",
     tamil: "வணிகவியல்",
     pronunciation: "Vanikaviyal",
     english: "Commerce"
   },
   {
-    audioSrc: "../../src/audio/words-audio/subjects/08.wav",
+    audioSrc: "../../src/audio/words-audio/subjects/08.mp3",
     imageSrc: "../../src/img/words-img/subjects/08.jpg",
     tamil: "உளவியல்",
     pronunciation: "Ulaviyaal",

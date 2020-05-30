@@ -1,6 +1,6 @@
 const audio = [
   {
-    audioSrc: "../../src/audio/words-audio/shelters/01.wav",
+    audioSrc: "../../src/audio/words-audio/shelters/01.mp3",
     imageSrc: "../../src/img/words-img/shelters/01.jpg",
     tamil: "குடில்",
     pronunciation: "Kudil",
@@ -8,57 +8,71 @@ const audio = [
   },
 
   {
-    audioSrc: "../../src/audio/words-audio/shelters/02.wav",
+    audioSrc: "../../src/audio/words-audio/shelters/02.mp3",
     imageSrc: "../../src/img/words-img/shelters/02.jpg",
     tamil: "மாட்டுத்தொழுவம்",
     pronunciation: "Maddutholuvam",
     english: "Mattuttoluvam "
   },
   {
-    audioSrc: "../../src/audio/words-audio/shelters/03.wav",
+    audioSrc: "../../src/audio/words-audio/shelters/03.mp3",
     imageSrc: "../../src/img/words-img/shelters/03.jpg",
-    tamil: "புறாக்கூண்டு",
+    tamil: "குகை",
+    pronunciation: "Kukai",
+    english: "Cave"
+  },
+  {
+    audioSrc: "../../src/audio/words-audio/shelters/04.mp3",
+    imageSrc: "../../src/img/words-img/shelters/04.jpg",
+    tamil: "புறாக்கூடு",
     pronunciation: "Purakkudu",
     english: "Pigeon's nest "
   },
   {
-    audioSrc: "../../src/audio/words-audio/shelters/04.wav",
-    imageSrc: "../../src/img/words-img/shelters/04.jpg",
+    audioSrc: "../../src/audio/words-audio/shelters/05.mp3",
+    imageSrc: "../../src/img/words-img/shelters/05.jpg",
     tamil: "தேன்கூடு",
     pronunciation: "ThenKoodu",
     english: "Honeycomb"
   },
   {
-    audioSrc: "../../src/audio/words-audio/shelters/05.wav",
-    imageSrc: "../../src/img/words-img/shelters/05.jpg",
+    audioSrc: "../../src/audio/words-audio/shelters/06.mp3",
+    imageSrc: "../../src/img/words-img/shelters/06.jpg",
     tamil: "மாளிகை",
     pronunciation: "Maalikai",
     english: "Palace"
   },
   {
-    audioSrc: "../../src/audio/words-audio/shelters/06.wav",
-    imageSrc: "../../src/img/words-img/shelters/06.jpg",
+    audioSrc: "../../src/audio/words-audio/shelters/07.mp3",
+    imageSrc: "../../src/img/words-img/shelters/07.jpg",
+    tamil: "கூடு",
+    pronunciation: "Koodu",
+    english: "Nest"
+  },
+  {
+    audioSrc: "../../src/audio/words-audio/shelters/08.mp3",
+    imageSrc: "../../src/img/words-img/shelters/08.jpg",
     tamil: "அரண்மனை",
     pronunciation: "Aranmanai",
     english: "Palace"
   },
   {
-    audioSrc: "../../src/audio/words-audio/shelters/07.wav",
-    imageSrc: "../../src/img/words-img/shelters/07.jpg",
+    audioSrc: "../../src/audio/words-audio/shelters/09.mp3",
+    imageSrc: "../../src/img/words-img/shelters/09.jpg",
     tamil: "சிறை",
     pronunciation: "Sirai",
     english: "Prison"
   },
   {
-    audioSrc: "../../src/audio/words-audio/shelters/08.wav",
-    imageSrc: "../../src/img/words-img/shelters/08.jpg",
+    audioSrc: "../../src/audio/words-audio/shelters/10.mp3",
+    imageSrc: "../../src/img/words-img/shelters/10.jpg",
     tamil: "குதிரைலாயம்",
     pronunciation: "Kuthirailajam",
     english: "Stables"
   },
   {
-    audioSrc: "../../src/audio/words-audio/shelters/09.wav",
-    imageSrc: "../../src/img/words-img/shelters/09.jpg",
+    audioSrc: "../../src/audio/words-audio/shelters/11.mp3",
+    imageSrc: "../../src/img/words-img/shelters/11.jpg",
     tamil: "ஆட்டுப்பட்டி",
     pronunciation: "Addupatty",
     english: "Sheepfold "

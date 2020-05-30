@@ -1,6 +1,6 @@
 const audio = [
   {
-    audioSrc: "../../src/audio/words-audio/days/01.wav",
+    audioSrc: "../../src/audio/words-audio/days/01.mp3",
     imageSrc: "../../src/img/words-img/days/01.jpg",
     tamil: "திங்கள்",
     pronunciation: "Thingal",
@@ -8,42 +8,42 @@ const audio = [
   },
 
   {
-    audioSrc: "../../src/audio/words-audio/days/02.wav",
+    audioSrc: "../../src/audio/words-audio/days/02.mp3",
     imageSrc: "../../src/img/words-img/days/02.jpg",
     tamil: "செவ்வாய்",
     pronunciation: "Sevvai",
     english: "Tuesday"
   },
   {
-    audioSrc: "../../src/audio/words-audio/days/03.wav",
+    audioSrc: "../../src/audio/words-audio/days/03.mp3",
     imageSrc: "../../src/img/words-img/days/03.jpg",
     tamil: "புதன்",
     pronunciation: "Puthan",
     english: "Wednesday"
   },
   {
-    audioSrc: "../../src/audio/words-audio/days/04.wav",
+    audioSrc: "../../src/audio/words-audio/days/04.mp3",
     imageSrc: "../../src/img/words-img/days/04.jpg",
     tamil: "வியாழன்",
     pronunciation: "Viyalan",
     english: "Thursday"
   },
   {
-    audioSrc: "../../src/audio/words-audio/days/05.wav",
+    audioSrc: "../../src/audio/words-audio/days/05.mp3",
     imageSrc: "../../src/img/words-img/days/05.jpg",
     tamil: "வெள்ளி",
     pronunciation: "Velli",
     english: "Friday"
   },
   {
-    audioSrc: "../../src/audio/words-audio/days/06.wav",
+    audioSrc: "../../src/audio/words-audio/days/06.mp3",
     imageSrc: "../../src/img/words-img/days/06.jpg",
     tamil: "சனி",
     pronunciation: "Sani",
     english: "Saturday"
   },
   {
-    audioSrc: "../../src/audio/words-audio/days/07.wav",
+    audioSrc: "../../src/audio/words-audio/days/07.mp3",
     imageSrc: "../../src/img/words-img/days/07.jpg",
     tamil: "ஞாயிறு",
     pronunciation: "Naayiru",

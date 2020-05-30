@@ -1,6 +1,6 @@
 const audio = [
   {
-    audioSrc: "../../src/audio/words-audio/hospital/01.wav",
+    audioSrc: "../../src/audio/words-audio/hospital/01.mp3",
     imageSrc: "../../src/img/words-img/hospital/01.jpg",
     tamil: "மருந்து",
     pronunciation: "Marunthu",
@@ -8,28 +8,28 @@ const audio = [
   },
 
   {
-    audioSrc: "../../src/audio/words-audio/hospital/02.wav",
+    audioSrc: "../../src/audio/words-audio/hospital/02.mp3",
     imageSrc: "../../src/img/words-img/hospital/02.jpg",
     tamil: "ஊசி",
     pronunciation: "Uusi",
     english: "Injection"
   },
   {
-    audioSrc: "../../src/audio/words-audio/hospital/03.wav",
+    audioSrc: "../../src/audio/words-audio/hospital/03.mp3",
     imageSrc: "../../src/img/words-img/hospital/03.jpg",
     tamil: "தாதி",
     pronunciation: "Thathi",
     english: "Nurse"
   },
   {
-    audioSrc: "../../src/audio/words-audio/hospital/04.wav",
+    audioSrc: "../../src/audio/words-audio/hospital/04.mp3",
     imageSrc: "../../src/img/words-img/hospital/04.jpg",
     tamil: "வைத்தியர்",
     pronunciation: "Vaiththiyar",
     english: "Doctor"
   },
   {
-    audioSrc: "../../src/audio/words-audio/hospital/05.wav",
+    audioSrc: "../../src/audio/words-audio/hospital/05.mp3",
     imageSrc: "../../src/img/words-img/hospital/05.jpg",
     tamil: "மருந்தகம்",
     pronunciation: "Marunthakam",

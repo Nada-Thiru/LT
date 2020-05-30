@@ -1,6 +1,6 @@
 const audio = [
   {
-    audioSrc: "../../src/audio/words-audio/colors/01.wav",
+    audioSrc: "../../src/audio/words-audio/colors/01.mp3",
     imageSrc: "../../src/img/words-img/colors/01.jpg",
     tamil: "சிவப்பு",
     pronunciation: "Sivappu",
@@ -8,56 +8,56 @@ const audio = [
   },
 
   {
-    audioSrc: "../../src/audio/words-audio/colors/02.wav",
+    audioSrc: "../../src/audio/words-audio/colors/02.mp3",
     imageSrc: "../../src/img/words-img/colors/02.jpg",
     tamil: "பச்சை",
     pronunciation: "Pachchai",
     english: "Green"
   },
   {
-    audioSrc: "../../src/audio/words-audio/colors/03.wav",
+    audioSrc: "../../src/audio/words-audio/colors/03.mp3",
     imageSrc: "../../src/img/words-img/colors/03.jpg",
     tamil: "மஞ்சள்",
     pronunciation: "Manchal",
     english: "Yellow"
   },
   {
-    audioSrc: "../../src/audio/words-audio/colors/04.wav",
+    audioSrc: "../../src/audio/words-audio/colors/04.mp3",
     imageSrc: "../../src/img/words-img/colors/04.jpg",
     tamil: "நீலம்",
     pronunciation: "Neelam",
     english: "Blue"
   },
   {
-    audioSrc: "../../src/audio/words-audio/colors/05.wav",
+    audioSrc: "../../src/audio/words-audio/colors/05.mp3",
     imageSrc: "../../src/img/words-img/colors/05.jpg",
-    tamil: "கருப்பு",
+    tamil: "கறுப்பு",
     pronunciation: "Karuppu",
     english: "Black"
   },
   {
-    audioSrc: "../../src/audio/words-audio/colors/06.wav",
+    audioSrc: "../../src/audio/words-audio/colors/06.mp3",
     imageSrc: "../../src/img/words-img/colors/06.jpg",
     tamil: "வெள்ளை",
     pronunciation: "Vellai",
     english: "White"
   },
   {
-    audioSrc: "../../src/audio/words-audio/colors/07.wav",
+    audioSrc: "../../src/audio/words-audio/colors/07.mp3",
     imageSrc: "../../src/img/words-img/colors/07.jpg",
     tamil: "சாம்பல்",
     pronunciation: "Saampal",
     english: "Grey"
   },
   {
-    audioSrc: "../../src/audio/words-audio/colors/08.wav",
+    audioSrc: "../../src/audio/words-audio/colors/08.mp3",
     imageSrc: "../../src/img/words-img/colors/08.jpg",
     tamil: "ஊதா",
     pronunciation: "Uutha",
     english: "Purple"
   },
   {
-    audioSrc: "../../src/audio/words-audio/colors/09.wav",
+    audioSrc: "../../src/audio/words-audio/colors/09.mp3",
     imageSrc: "../../src/img/words-img/colors/09.jpg",
     tamil: "செம்மஞ்சள்",
     pronunciation: "Semmanchal",

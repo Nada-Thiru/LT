@@ -1,6 +1,6 @@
 const audio = [
   {
-    audioSrc: "../../src/audio/words-audio/months/01.wav",
+    audioSrc: "../../src/audio/words-audio/months/01.mp3",
     imageSrc: "../../src/img/words-img/months/01.jpg",
     tamil: "தை",
     pronunciation: "Thai",
@@ -8,77 +8,77 @@ const audio = [
   },
 
   {
-    audioSrc: "../../src/audio/words-audio/months/02.wav",
+    audioSrc: "../../src/audio/words-audio/months/02.mp3",
     imageSrc: "../../src/img/words-img/months/02.jpg",
     tamil: "மாசி",
     pronunciation: "Maasi",
     english: "February"
   },
   {
-    audioSrc: "../../src/audio/words-audio/months/03.wav",
+    audioSrc: "../../src/audio/words-audio/months/03.mp3",
     imageSrc: "../../src/img/words-img/months/03.jpg",
     tamil: "பங்குனி",
     pronunciation: "Panguni",
     english: "March"
   },
   {
-    audioSrc: "../../src/audio/words-audio/months/04.wav",
+    audioSrc: "../../src/audio/words-audio/months/04.mp3",
     imageSrc: "../../src/img/words-img/months/04.jpg",
     tamil: "சித்திரை",
     pronunciation: "Siththirai",
     english: "April"
   },
   {
-    audioSrc: "../../src/audio/words-audio/months/05.wav",
+    audioSrc: "../../src/audio/words-audio/months/05.mp3",
     imageSrc: "../../src/img/words-img/months/05.jpg",
     tamil: "வைகாசி",
     pronunciation: "Vaikashi",
     english: "May"
   },
   {
-    audioSrc: "../../src/audio/words-audio/months/06.wav",
+    audioSrc: "../../src/audio/words-audio/months/06.mp3",
     imageSrc: "../../src/img/words-img/months/06.jpg",
     tamil: "ஆனி",
     pronunciation: "Aani",
     english: "June"
   },
   {
-    audioSrc: "../../src/audio/words-audio/months/07.wav",
+    audioSrc: "../../src/audio/words-audio/months/07.mp3",
     imageSrc: "../../src/img/words-img/months/07.jpg",
     tamil: "ஆடி",
     pronunciation: "Aadi",
     english: "July"
   },
   {
-    audioSrc: "../../src/audio/words-audio/months/08.wav",
+    audioSrc: "../../src/audio/words-audio/months/08.mp3",
     imageSrc: "../../src/img/words-img/months/08.jpg",
     tamil: "ஆவணி",
     pronunciation: "Aavani",
     english: "August"
   },
   {
-    audioSrc: "../../src/audio/words-audio/months/09.wav",
+    audioSrc: "../../src/audio/words-audio/months/09.mp3",
     imageSrc: "../../src/img/words-img/months/09.jpg",
     tamil: "புரட்டாசி",
     pronunciation: "Puraddashi",
     english: "September"
   },
   {
-    audioSrc: "../../src/audio/words-audio/months/10.wav",
+    audioSrc: "../../src/audio/words-audio/months/10.mp3",
     imageSrc: "../../src/img/words-img/months/10.jpg",
     tamil: "ஐப்பசி",
     pronunciation: "Ippasi",
     english: "October"
   },
   {
-    audioSrc: "../../src/audio/words-audio/months/11.wav",
+    audioSrc: "../../src/audio/words-audio/months/11.mp3",
     imageSrc: "../../src/img/words-img/months/11.jpg",
     tamil: "கார்த்திகை",
     pronunciation: "Karththikai",
     english: "November"
   },
   {
-    audioSrc: "../../src/audio/words-audio/months/12.wav",
+    audioSrc: "../../src/audio/words-audio/months/12.mp3",
     imageSrc: "../../src/img/words-img/months/12.jpg",
     tamil: "மார்கழி",
     pronunciation: "Markali",

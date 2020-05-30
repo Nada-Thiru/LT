@@ -1,132 +1,132 @@
 const audio = [
   {
-    audioSrc: "../../src/audio/words-audio/relations/01.wav",
+    audioSrc: "../../src/audio/words-audio/relations/01.mp3",
     imageSrc: "../../src/img/words-img/relations/01.jpg",
     tamil: "அம்மா",
     pronunciation: "Amma",
     english: "Mother"
   },
   {
-    audioSrc: "../../src/audio/words-audio/relations/02.wav",
+    audioSrc: "../../src/audio/words-audio/relations/02.mp3",
     imageSrc: "../../src/img/words-img/relations/01.jpg",
     tamil: "அப்பா",
     pronunciation: "Appa",
     english: "Father"
   },
   {
-    audioSrc: "../../src/audio/words-audio/relations/03.wav",
+    audioSrc: "../../src/audio/words-audio/relations/03.mp3",
     imageSrc: "../../src/img/words-img/relations/01.jpg",
     tamil: "தம்பி",
     pronunciation: "Thampi",
     english: "Younger Brother"
   },
   {
-    audioSrc: "../../src/audio/words-audio/relations/04.wav",
+    audioSrc: "../../src/audio/words-audio/relations/04.mp3",
     imageSrc: "../../src/img/words-img/relations/01.jpg",
     tamil: "தங்கை",
     pronunciation: "Thankai",
     english: "Younger Sister"
   },
   {
-    audioSrc: "../../src/audio/words-audio/relations/05.wav",
+    audioSrc: "../../src/audio/words-audio/relations/05.mp3",
     imageSrc: "../../src/img/words-img/relations/01.jpg",
     tamil: "அக்கா",
     pronunciation: "Akka",
     english: "Elder Sister"
   },
   {
-    audioSrc: "../../src/audio/words-audio/relations/06.wav",
+    audioSrc: "../../src/audio/words-audio/relations/06.mp3",
     imageSrc: "../../src/img/words-img/relations/01.jpg",
     tamil: "அண்ணா",
     pronunciation: "Anna",
     english: "Elder Brother"
   },
   {
-    audioSrc: "../../src/audio/words-audio/relations/07.wav",
+    audioSrc: "../../src/audio/words-audio/relations/07.mp3",
     imageSrc: "../../src/img/words-img/relations/01.jpg",
     tamil: "பாட்டி",
     pronunciation: "Paaddi",
-    english: "Grandmother"
+    english: "Grand Mother"
   },
   {
-    audioSrc: "../../src/audio/words-audio/relations/08.wav",
+    audioSrc: "../../src/audio/words-audio/relations/08.mp3",
     imageSrc: "../../src/img/words-img/relations/01.jpg",
     tamil: "பாட்டன் ",
     pronunciation: "Paaddan",
     english: "Grand Father"
   },
   {
-    audioSrc: "../../src/audio/words-audio/relations/09.wav",
+    audioSrc: "../../src/audio/words-audio/relations/09.mp3",
     imageSrc: "../../src/img/words-img/relations/01.jpg",
     tamil: "மாமி",
-    pronunciation: "Mami",
-    english: "Auntie"
+    pronunciation: "Maami",
+    english: "Aunt"
   },
   {
-    audioSrc: "../../src/audio/words-audio/relations/10.wav",
+    audioSrc: "../../src/audio/words-audio/relations/10.mp3",
     imageSrc: "../../src/img/words-img/relations/01.jpg",
     tamil: "சித்தி",
     pronunciation: "Siththi",
-    english: "Stepmother"
+    english: "Mothers younger sister"
   },
   {
-    audioSrc: "../../src/audio/words-audio/relations/11.wav",
+    audioSrc: "../../src/audio/words-audio/relations/11.mp3",
     imageSrc: "../../src/img/words-img/relations/01.jpg",
     tamil: "சித்தப்பா",
     pronunciation: "Siththappa",
-    english: "Step Father"
+    english: "Fathers younger brother"
   },
   {
-    audioSrc: "../../src/audio/words-audio/relations/12.wav",
+    audioSrc: "../../src/audio/words-audio/relations/12.mp3",
     imageSrc: "../../src/img/words-img/relations/01.jpg",
     tamil: "மாமா",
     pronunciation: "Mama",
     english: "Uncle"
   },
   {
-    audioSrc: "../../src/audio/words-audio/relations/13.wav",
+    audioSrc: "../../src/audio/words-audio/relations/13.mp3",
     imageSrc: "../../src/img/words-img/relations/01.jpg",
     tamil: "அத்தை",
     pronunciation: "Aththai",
     english: "Aunt"
   },
   {
-    audioSrc: "../../src/audio/words-audio/relations/14.wav",
+    audioSrc: "../../src/audio/words-audio/relations/14.mp3",
     imageSrc: "../../src/img/words-img/relations/01.jpg",
     tamil: "மச்சான்",
     pronunciation: "Machan",
     english: "Cousin"
   },
   {
-    audioSrc: "../../src/audio/words-audio/relations/15.wav",
+    audioSrc: "../../src/audio/words-audio/relations/15.mp3",
     imageSrc: "../../src/img/words-img/relations/01.jpg",
     tamil: "மச்சாள் ",
-    pronunciation: "Machal",
+    pronunciation: "Machaal",
     english: "Cousin"
   },
   {
-    audioSrc: "../../src/audio/words-audio/relations/16.wav",
+    audioSrc: "../../src/audio/words-audio/relations/16.mp3",
     imageSrc: "../../src/img/words-img/relations/01.jpg",
     tamil: "அண்ணி",
     pronunciation: "Anni",
     english: "Sister in Law"
   },
   {
-    audioSrc: "../../src/audio/words-audio/relations/17.wav",
+    audioSrc: "../../src/audio/words-audio/relations/17.mp3",
     imageSrc: "../../src/img/words-img/relations/01.jpg",
     tamil: "அத்தான்",
     pronunciation: "Aththtan",
-    english: "Aunty"
+    english: "Brother in law"
   },
   {
-    audioSrc: "../../src/audio/words-audio/relations/18.wav",
+    audioSrc: "../../src/audio/words-audio/relations/18.mp3",
     imageSrc: "../../src/img/words-img/relations/01.jpg",
     tamil: "பெரியம்மா",
     pronunciation: "Periyamma",
     english: "Mothers elder sister"
   },
   {
-    audioSrc: "../../src/audio/words-audio/relations/19.wav",
+    audioSrc: "../../src/audio/words-audio/relations/19.mp3",
     imageSrc: "../../src/img/words-img/relations/01.jpg",
     tamil: "பெரியப்பா",
     pronunciation: "Periyappa",

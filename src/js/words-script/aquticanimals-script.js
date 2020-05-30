@@ -1,6 +1,6 @@
 const audio = [
   {
-    audioSrc: "../../src/audio/words-audio/aquticanimals/01.wav",
+    audioSrc: "../../src/audio/words-audio/aquticanimals/01.mp3",
     imageSrc: "../../src/img/words-img/aquticanimals/01.jpg",
     tamil: "நண்டு ",
     pronunciation: "Nandu",
@@ -8,42 +8,42 @@ const audio = [
   },
 
   {
-    audioSrc: "../../src/audio/words-audio/aquticanimals/02.wav",
+    audioSrc: "../../src/audio/words-audio/aquticanimals/02.mp3",
     imageSrc: "../../src/img/words-img/aquticanimals/02.jpg",
     tamil: "முதலை",
     pronunciation: "Muthalai",
     english: "Crocodile"
   },
   {
-    audioSrc: "../../src/audio/words-audio/aquticanimals/03.wav",
+    audioSrc: "../../src/audio/words-audio/aquticanimals/03.mp3",
     imageSrc: "../../src/img/words-img/aquticanimals/03.jpg",
     tamil: "தவளை",
     pronunciation: "Thavalai",
     english: "Frog"
   },
   {
-    audioSrc: "../../src/audio/words-audio/aquticanimals/04.wav",
+    audioSrc: "../../src/audio/words-audio/aquticanimals/04.mp3",
     imageSrc: "../../src/img/words-img/aquticanimals/04.jpg",
     tamil: "சிப்பி",
     pronunciation: "Sippi",
     english: "Oyster"
   },
   {
-    audioSrc: "../../src/audio/words-audio/aquticanimals/05.wav",
+    audioSrc: "../../src/audio/words-audio/aquticanimals/05.mp3",
     imageSrc: "../../src/img/words-img/aquticanimals/05.jpg",
     tamil: "சுறா",
     pronunciation: "Sura",
     english: "Shark"
   },
   {
-    audioSrc: "../../src/audio/words-audio/aquticanimals/06.wav",
+    audioSrc: "../../src/audio/words-audio/aquticanimals/06.mp3",
     imageSrc: "../../src/img/words-img/aquticanimals/06.jpg",
     tamil: "ஆமை",
     pronunciation: "Aamai",
     english: "Tortoise"
   },
   {
-    audioSrc: "../../src/audio/words-audio/aquticanimals/07.wav",
+    audioSrc: "../../src/audio/words-audio/aquticanimals/07.mp3",
     imageSrc: "../../src/img/words-img/aquticanimals/07.jpg",
     tamil: "திமிங்கலம்",
     pronunciation: "Thimingalam",

@@ -1,55 +1,55 @@
 const audio = [
   {
-    audioSrc: "../../src/audio/words-audio/weapons/01.wav",
+    audioSrc: "../../src/audio/words-audio/weapons/01.mp3",
     imageSrc: "../../src/img/words-img/weapons/01.jpg",
     tamil: "அம்பு",
     pronunciation: "Ampu",
     english: "Arrow"
   },
   {
-    audioSrc: "../../src/audio/words-audio/weapons/02.wav",
+    audioSrc: "../../src/audio/words-audio/weapons/02.mp3",
     imageSrc: "../../src/img/words-img/weapons/02.jpg",
     tamil: "துப்பாக்கி",
     pronunciation: "Thuppakki",
     english: "Gun"
   },
   {
-    audioSrc: "../../src/audio/words-audio/weapons/03.wav",
+    audioSrc: "../../src/audio/words-audio/weapons/03.mp3",
     imageSrc: "../../src/img/words-img/weapons/03.jpg",
     tamil: "வெடிகுண்டு",
     pronunciation: "Vedikundu",
     english: "Bomb"
   },
   {
-    audioSrc: "../../src/audio/words-audio/weapons/04.wav",
+    audioSrc: "../../src/audio/words-audio/weapons/04.mp3",
     imageSrc: "../../src/img/words-img/weapons/04.jpg",
     tamil: "குண்டு",
     pronunciation: "Kundu",
     english: "Stew"
   },
   {
-    audioSrc: "../../src/audio/words-audio/weapons/05.wav",
+    audioSrc: "../../src/audio/words-audio/weapons/05.mp3",
     imageSrc: "../../src/img/words-img/weapons/05.jpg",
     tamil: "கத்தி",
     pronunciation: "Kaththi",
     english: "Knife "
   },
   {
-    audioSrc: "../../src/audio/words-audio/weapons/06.wav",
+    audioSrc: "../../src/audio/words-audio/weapons/06.mp3",
     imageSrc: "../../src/img/words-img/weapons/06.jpg",
     tamil: "வாள்",
     pronunciation: "Vaal",
     english: "Sword"
   },
   {
-    audioSrc: "../../src/audio/words-audio/weapons/07.wav",
+    audioSrc: "../../src/audio/words-audio/weapons/07.mp3",
     imageSrc: "../../src/img/words-img/weapons/07.jpg",
     tamil: "கைக்குண்டு",
     pronunciation: "Kaikundu",
     english: "Grenade"
   },
   {
-    audioSrc: "../../src/audio/words-audio/weapons/08.wav",
+    audioSrc: "../../src/audio/words-audio/weapons/08.mp3",
     imageSrc: "../../src/img/words-img/weapons/08.jpg",
     tamil: "ஈட்டி",
     pronunciation: "Eddi",

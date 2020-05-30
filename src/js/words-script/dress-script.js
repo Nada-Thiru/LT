@@ -1,6 +1,6 @@
 const audio = [
   {
-    audioSrc: "../../src/audio/words-audio/dress/01.wav",
+    audioSrc: "../../src/audio/words-audio/dress/01.mp3",
     imageSrc: "../../src/img/words-img/dress/01.jpg",
     tamil: "சட்டை",
     pronunciation: "Saddai",
@@ -8,35 +8,35 @@ const audio = [
   },
 
   {
-    audioSrc: "../../src/audio/words-audio/dress/02.wav",
+    audioSrc: "../../src/audio/words-audio/dress/02.mp3",
     imageSrc: "../../src/img/words-img/dress/02.jpg",
     tamil: "காற்சட்டை",
     pronunciation: "Katsaddai",
     english: "Trouser"
   },
   {
-    audioSrc: "../../src/audio/words-audio/dress/03.wav",
+    audioSrc: "../../src/audio/words-audio/dress/03.mp3",
     imageSrc: "../../src/img/words-img/dress/03.jpg",
     tamil: "சறம்",
     pronunciation: "Saram",
     english: "Sarong"
   },
   {
-    audioSrc: "../../src/audio/words-audio/dress/04.wav",
+    audioSrc: "../../src/audio/words-audio/dress/04.mp3",
     imageSrc: "../../src/img/words-img/dress/04.jpg",
     tamil: "வேட்டி",
     pronunciation: "Veddi",
     english: "Veddi"
   },
   {
-    audioSrc: "../../src/audio/words-audio/dress/05.wav",
+    audioSrc: "../../src/audio/words-audio/dress/05.mp3",
     imageSrc: "../../src/img/words-img/dress/05.jpg",
     tamil: "பாவாடை",
     pronunciation: "Pavaadai",
     english: "Skirt"
   },
   {
-    audioSrc: "../../src/audio/words-audio/dress/06.wav",
+    audioSrc: "../../src/audio/words-audio/dress/06.mp3",
     imageSrc: "../../src/img/words-img/dress/06.jpg",
     tamil: "சேலை",
     pronunciation: "Selai",

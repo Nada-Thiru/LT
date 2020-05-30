@@ -1,6 +1,6 @@
 const audio = [
   {
-    audioSrc: "../../src/audio/words-audio/technology/01.wav",
+    audioSrc: "../../src/audio/words-audio/technology/01.mp3",
     imageSrc: "../../src/img/words-img/technology/01.jpg",
     tamil: "கணினி",
     pronunciation: "Kanini",
@@ -8,35 +8,35 @@ const audio = [
   },
 
   {
-    audioSrc: "../../src/audio/words-audio/technology/02.wav",
+    audioSrc: "../../src/audio/words-audio/technology/02.mp3",
     imageSrc: "../../src/img/words-img/technology/02.jpg",
     tamil: "தொலைபேசி",
     pronunciation: "Tholaipesi",
     english: "Telephone"
   },
   {
-    audioSrc: "../../src/audio/words-audio/technology/03.wav",
+    audioSrc: "../../src/audio/words-audio/technology/03.mp3",
     imageSrc: "../../src/img/words-img/technology/03.jpg",
     tamil: "இணையம்",
     pronunciation: "Inaiyam",
     english: "Internet"
   },
   {
-    audioSrc: "../../src/audio/words-audio/technology/04.wav",
+    audioSrc: "../../src/audio/words-audio/technology/04.mp3",
     imageSrc: "../../src/img/words-img/technology/04.jpg",
     tamil: "வலைத்தளம்",
     pronunciation: "Valaiththalam",
     english: "Website"
   },
   {
-    audioSrc: "../../src/audio/words-audio/technology/05.wav",
+    audioSrc: "../../src/audio/words-audio/technology/05.mp3",
     imageSrc: "../../src/img/words-img/technology/05.jpg",
     tamil: "வானொலி",
     pronunciation: "Vaanoli",
     english: "Radio"
   },
   {
-    audioSrc: "../../src/audio/words-audio/technology/06.wav",
+    audioSrc: "../../src/audio/words-audio/technology/06.mp3",
     imageSrc: "../../src/img/words-img/technology/06.jpg",
     tamil: "தொலைக்காட்சிப் பெட்டி",
     pronunciation: "Tholaikkadsippeddy",

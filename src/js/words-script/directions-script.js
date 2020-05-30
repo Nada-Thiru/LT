@@ -1,57 +1,57 @@
 const audio = [
   {
-    audioSrc: "../../src/audio/words-audio/directions/01.wav",
-    imageSrc: "../../src/img/words-img/directions/01.jpg",
+    audioSrc: "../../src/audio/words-audio/directions/01.mp3",
+    imageSrc: "../../src/img/words-img/directions/directions.jpg",
     tamil: "வடக்கு",
     pronunciation: "Vadakku",
     english: "North"
   },
 
   {
-    audioSrc: "../../src/audio/words-audio/directions/02.wav",
-    imageSrc: "../../src/img/words-img/directions/02.jpg",
+    audioSrc: "../../src/audio/words-audio/directions/02.mp3",
+    imageSrc: "../../src/img/words-img/directions/directions.jpg",
     tamil: "கிழக்கு",
     pronunciation: "Kilakku",
     english: "East"
   },
   {
-    audioSrc: "../../src/audio/words-audio/directions/03.wav",
-    imageSrc: "../../src/img/words-img/directions/03.jpg",
+    audioSrc: "../../src/audio/words-audio/directions/03.mp3",
+    imageSrc: "../../src/img/words-img/directions/directions.jpg",
     tamil: "தெற்கு",
     pronunciation: "Thetku",
     english: "South"
   },
   {
-    audioSrc: "../../src/audio/words-audio/directions/04.wav",
-    imageSrc: "../../src/img/words-img/directions/04.jpg",
+    audioSrc: "../../src/audio/words-audio/directions/04.mp3",
+    imageSrc: "../../src/img/words-img/directions/directions.jpg",
     tamil: "மேற்கு",
     pronunciation: "Mettku",
     english: "West "
   },
   {
-    audioSrc: "../../src/audio/words-audio/directions/05.wav",
-    imageSrc: "../../src/img/words-img/directions/05.jpg",
+    audioSrc: "../../src/audio/words-audio/directions/05.mp3",
+    imageSrc: "../../src/img/words-img/directions/directions.jpg",
     tamil: "வடகிழக்கு",
     pronunciation: "Vadakilakku",
     english: "Northeast"
   },
   {
-    audioSrc: "../../src/audio/words-audio/directions/06.wav",
-    imageSrc: "../../src/img/words-img/directions/06.jpg",
+    audioSrc: "../../src/audio/words-audio/directions/06.mp3",
+    imageSrc: "../../src/img/words-img/directions/directions.jpg",
     tamil: "தென்கிழக்கு",
     pronunciation: "Thenkilakku",
     english: "Southeast"
   },
   {
-    audioSrc: "../../src/audio/words-audio/directions/07.wav",
-    imageSrc: "../../src/img/words-img/directions/07.jpg",
+    audioSrc: "../../src/audio/words-audio/directions/07.mp3",
+    imageSrc: "../../src/img/words-img/directions/directions.jpg",
     tamil: "தென்மேற்கு",
     pronunciation: "Thenkilakku",
     english: "Southwest"
   },
   {
-    audioSrc: "../../src/audio/words-audio/directions/08.wav",
-    imageSrc: "../../src/img/words-img/directions/08.jpg",
+    audioSrc: "../../src/audio/words-audio/directions/08.mp3",
+    imageSrc: "../../src/img/words-img/directions/directions.jpg",
     tamil: "வடமேற்கு",
     pronunciation: "Vadametku",
     english: "Northwest"

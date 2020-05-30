@@ -1,6 +1,6 @@
 const audio = [
   {
-    audioSrc: "../../src/audio/words-audio/foods/01.wav",
+    audioSrc: "../../src/audio/words-audio/foods/01.mp3",
     imageSrc: "../../src/img/words-img/foods/01.jpg",
     tamil: "புட்டு",
     pronunciation: "Puttu",
@@ -8,56 +8,56 @@ const audio = [
   },
 
   {
-    audioSrc: "../../src/audio/words-audio/foods/02.wav",
+    audioSrc: "../../src/audio/words-audio/foods/02.mp3",
     imageSrc: "../../src/img/words-img/foods/02.jpg",
     tamil: "சோறு",
     pronunciation: "Soru",
     english: "Rice"
   },
   {
-    audioSrc: "../../src/audio/words-audio/foods/03.wav",
+    audioSrc: "../../src/audio/words-audio/foods/03.mp3",
     imageSrc: "../../src/img/words-img/foods/03.jpg",
     tamil: "அப்பம் ",
     pronunciation: "Appam",
     english: "Hoppers"
   },
   {
-    audioSrc: "../../src/audio/words-audio/foods/04.wav",
+    audioSrc: "../../src/audio/words-audio/foods/04.mp3",
     imageSrc: "../../src/img/words-img/foods/04.jpg",
     tamil: "இடியப்பம்",
     pronunciation: "Idiyappam",
     english: "String hoppers"
   },
   {
-    audioSrc: "../../src/audio/words-audio/foods/05.wav",
+    audioSrc: "../../src/audio/words-audio/foods/05.mp3",
     imageSrc: "../../src/img/words-img/foods/05.jpg",
     tamil: "பலகாரம்",
     pronunciation: "Palakaram",
     english: "Snacks"
   },
   {
-    audioSrc: "../../src/audio/words-audio/foods/06.wav",
+    audioSrc: "../../src/audio/words-audio/foods/06.mp3",
     imageSrc: "../../src/img/words-img/foods/06.jpg",
     tamil: "இட்லி",
     pronunciation: "Idly",
     english: "Idly"
   },
   {
-    audioSrc: "../../src/audio/words-audio/foods/07.wav",
+    audioSrc: "../../src/audio/words-audio/foods/07.mp3",
     imageSrc: "../../src/img/words-img/foods/07.jpg",
     tamil: "தோசை",
     pronunciation: "Thosai",
     english: "Dosa"
   },
   {
-    audioSrc: "../../src/audio/words-audio/foods/08.wav",
+    audioSrc: "../../src/audio/words-audio/foods/08.mp3",
     imageSrc: "../../src/img/words-img/foods/08.jpg",
     tamil: "ரொட்டி",
     pronunciation: "Rotty",
     english: "Rotty"
   },
   {
-    audioSrc: "../../src/audio/words-audio/foods/09.wav",
+    audioSrc: "../../src/audio/words-audio/foods/09.mp3",
     imageSrc: "../../src/img/words-img/foods/09.jpg",
     tamil: "பொங்கல்",
     pronunciation: "Pongal",

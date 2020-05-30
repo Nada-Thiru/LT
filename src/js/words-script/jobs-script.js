@@ -36,27 +36,6 @@ const audio = [
     english: "Designer"
   },
   {
-    audioSrc: "../../src/audio/words-audio/jobs/06.mp3",
-    imageSrc: "../../src/img/words-img/jobs/06.jpg",
-    tamil: "ஊழியர்",
-    pronunciation: "Uliyar",
-    english: "Employee "
-  },
-  {
-    audioSrc: "../../src/audio/words-audio/jobs/07.mp3",
-    imageSrc: "../../src/img/words-img/jobs/07.jpg",
-    tamil: "அமைச்சர்",
-    pronunciation: "Amachchar",
-    english: "Minister "
-  },
-  {
-    audioSrc: "../../src/audio/words-audio/jobs/08.mp3",
-    imageSrc: "../../src/img/words-img/jobs/08.jpg",
-    tamil: "ஜனாதிபதி",
-    pronunciation: "Janathipathi",
-    english: "President"
-  },
-  {
     audioSrc: "../../src/audio/words-audio/jobs/09.mp3",
     imageSrc: "../../src/img/words-img/jobs/09.jpg",
     tamil: "காவலாளர்",

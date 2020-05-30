@@ -23,9 +23,9 @@ const audio = [
   {
     audioSrc: "../../src/audio/words-audio/weapons/04.mp3",
     imageSrc: "../../src/img/words-img/weapons/04.jpg",
-    tamil: "குண்டு",
-    pronunciation: "Kundu",
-    english: "Stew"
+    tamil: "தோட்டா",
+    pronunciation: "Thodda",
+    english: "Bullet"
   },
   {
     audioSrc: "../../src/audio/words-audio/weapons/05.mp3",

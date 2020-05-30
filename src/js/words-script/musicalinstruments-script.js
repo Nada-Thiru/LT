@@ -40,7 +40,7 @@ const audio = [
     imageSrc: "../../src/img/words-img/musicalinstruments/06.jpg",
     tamil: "மிருதங்கம்",
     pronunciation: "Miruthankam",
-    english: "Percussion  "
+    english: "Mridanga"
   },
   {
     audioSrc: "../../src/audio/words-audio/musicalinstruments/07.mp3",

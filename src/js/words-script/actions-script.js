@@ -81,7 +81,7 @@ const audio = [
   {
     audioSrc: "../../src/audio/words-audio/actions/12.mp3",
     imageSrc: "../../src/img/words-img/actions/01.jpg",
-    tamil: "பார் ",
+    tamil: "பார்",
     pronunciation: "Paar",
     english: "See"
   },
@@ -123,7 +123,7 @@ const audio = [
   {
     audioSrc: "../../src/audio/words-audio/actions/18.mp3",
     imageSrc: "../../src/img/words-img/actions/01.jpg",
-    tamil: "நடி ",
+    tamil: "நடி",
     pronunciation: "Nadi",
     english: "Act"
   },

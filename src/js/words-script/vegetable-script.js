@@ -4,7 +4,7 @@ const audio = [
     imageSrc: "../../src/img/words-img/vegetables/01.jpg",
     tamil: "கத்தரிக்காய்",
     pronunciation: "Kaththarikkai",
-    english: "Eggplant"
+    english: "Brinjal"
   },
 
   {

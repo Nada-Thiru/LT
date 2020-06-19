@@ -71,4 +71,7 @@ h1 {
   .letters {
     height: 10rem;
   }
+  .maincard {
+    height: 5rem;
+  }
 }

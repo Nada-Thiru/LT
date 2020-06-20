@@ -28,7 +28,12 @@ h1 {
   color: #6d6875;
   margin: 2rem;
 }
-
+.maincard {
+  height: 5rem;
+}
+.letters {
+  height: 10rem;
+}
 /* 
   ##Device = Tablets, Ipads (portrait)
   ##Screen = B/w 768px to 1024px
@@ -37,6 +42,9 @@ h1 {
 @media (min-width: 768px) and (max-width: 1024px) {
   .letters {
     height: 9rem;
+  }
+  .maincard {
+    height: 4rem;
   }
 }
 
@@ -49,6 +57,9 @@ h1 {
   .letters {
     height: 9rem;
   }
+  .maincard {
+    height: 4rem;
+  }
 }
 
 /* 
@@ -59,6 +70,9 @@ h1 {
 @media (min-width: 481px) and (max-width: 767px) {
   .letters {
     height: 7rem;
+  }
+  .maincard {
+    height: 4rem;
   }
 }
 

@@ -59,7 +59,7 @@ const vowels = [
         id: "a9",
         src: "../src/img/letters-img/vowel-words/a9.png",
         header: "ஐந்து ,ஐயம் ,ஐப்பசி",
-        titleTam: "<span style='color:red;'>ஐ/span>ந்து",
+        titleTam: "<span style='color:red;'>ஐ</span>ந்து",
         titleEng: "Ainthu - Five",
     },
     {
